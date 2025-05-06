@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+  
+
+  .rate-cards {
+    text-align: center;
+    padding: 30px;
+    background-color: #fff8f0;
+  }
+  
+  .rate-cards h2 {
+    margin-bottom: 20px;
+    color: #8b4513;
+  }
+  
+  .card {
+    display: inline-block;
+    background-color: #ffe4c4;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+
+body{
+    
+        margin: 0;
+        padding: 0;
+        background-color: #fffaf0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      
+    
+}
+    
+.container {
+    background-color: burlywood;
+    border: 3px solid blanchedalmond;
+    width: 90%;               
+    max-width: 533px;        
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 23px;
+    box-sizing: border-box;
+  }
+  
+
+        /
+
+/* Navbar */
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+  }
+  
+  .left {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .right ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .right ul li {
+    margin: 5px 15px;
+  }
+  
+  .right ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s;
+  }
+  
+  .right ul li a:hover {
+    color: #ffcc00;
+    cursor: pointer;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .rate-list {
+    padding: 30px;
+    text-align: center;
+    background-color: #fff5e6;
+  }
+  
+  .rate-list h2 {
+    margin-bottom: 20px;
+    color: #663300;
+  }
+  
+  table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 0 10px #ccc;
+  }
+  
+  th, td {
+    padding: 15px;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f57c00;
+    color: white;
+  } */
+
+  * we can set margin/padding for too, bottom, left and right like this */
+        /* padding for too, bottom, left and right like this 
+        padding for too, bottom, left and right like this 
+        padding for too, bottom, left and right like this  */
+
+        
+         /* padding-top: 70px;
+         padding-bottom: 70px;  
+         padding-right: 70px;  
+         padding-left: 70px; */
+
+         /* margin-top: 3px;
+         margin-bottom: 5px;
+         margin-left: 34px;
+         margin-right: 5px; */
+
+         /* margin = bottom, left and right like this */
+         /* padding = bottom, left and right like this  */
+         /* padding = bottom, left and right like this  */
+         
+          
+         /* padding = bottom, left and right like this  */
+         /* margin = bottom, left and right like this  */
+
+           /* padding = top bottom right left  */
+         
